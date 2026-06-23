@@ -142,9 +142,7 @@ GPA = \frac{\sum (GradePoint \times Credits)}{\sum Credits}
 | A     | 8           |
 | B+    | 7           |
 | B     | 6           |
-| C     | 5           |
 | RA    | 0           |
-
 ---
 
 # 📸 Major Modules
